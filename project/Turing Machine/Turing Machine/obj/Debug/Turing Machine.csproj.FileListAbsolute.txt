@@ -1,0 +1,11 @@
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe.config
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\bin\Debug\Turing Machine.pdb
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\obj\Debug\Turing Machine.csprojResolveAssemblyReference.cache
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\obj\Debug\Turing_Machine.Form1.resources
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\obj\Debug\Turing_Machine.Properties.Resources.resources
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\obj\Debug\Turing Machine.csproj.GenerateResource.Cache
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\obj\Debug\Turing Machine.exe
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\obj\Debug\Turing Machine.pdb
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\obj\Debug\Turing_Machine.frmHelp.resources
+E:\Visual2015\cSharp\Turing Machine\Turing Machine\obj\Debug\Turing_Machine.frmAbout.resources
